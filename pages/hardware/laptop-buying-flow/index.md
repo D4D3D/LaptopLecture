@@ -40,6 +40,27 @@ title: 确定预算
 
 [接下来，确定你的预算]{.text-7xl}
 
+
+---
+layout : cols
+---
+
+::0::
+
+<ImageWithHint src="/images/京东3C数码产品活动.png" alt="京东" imgClass="h-90" class="w-fit m-auto" />
+
+::1::
+
+京东数码3C数码活动
+
+仅限北京地区
+
+20%的折扣
+
+如果要买电脑记得领卷
+
+可能会有一定缺货的现象
+
 ---
 src: ./choose.md
 ---
