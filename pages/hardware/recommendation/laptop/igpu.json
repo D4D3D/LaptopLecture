@@ -4,77 +4,8 @@
   },
   "data": [
     {
-      "brand": "火影",
-      "model": "众颜 U4B 锐龙版",
-      "screenSize": 14,
-      "thickness": 17.3,
-      "weight": 1.47,
-      "advantages": [
-        "[双2280硬盘位]{.very-good}",
-        "[原装系统纯净整洁\n未捆绑流氓软件]{.good}",
-        "性能释放优秀"
-      ],
-      "disadvantages": [
-        "[阉割RJ45接口]{.very-bad}",
-        "[核心温度高]{.bad}",
-        "[键盘面温度高]{.bad}",
-        "[充电速度慢]{.bad}",
-        "[半高方向键]{.attention}"
-      ],
-      "display": {
-        "resolution": "2880x1800",
-        "refreshRate": 120,
-        "coverage": "100% sRGB",
-        "brightness": "400nits"
-      },
-      "cpu": "锐龙 R7 7840H",
-      "gpu": "Radeon 780M",
-      "memory": "DDR5 5600 16G :vary-chip{to=\"32G\" cost=500}",
-      "storage": {
-        "type": "NVMe",
-        "capacity": "1TB",
-        "interface": "双 2280"
-      },
-      "price": 3699,
-      "url": "https://detail.tmall.com/item.htm?id=661746068728",
-      "image": "/images/recommendation/laptop/igpu/火影-众颜 U4B 锐龙版.png"
-    },
-    {
-      "brand": "火影",
-      "model": "众颜 U6 锐龙版",
-      "screenSize": 16,
-      "thickness": 19,
-      "weight": 1.88,
-      "advantages": [
-        "[双2280硬盘位]{.very-good}",
-        "[原装系统纯净整洁\n未捆绑流氓软件]{.good}",
-        "性能释放优秀"
-      ],
-      "disadvantages": [
-        "[充电速度慢]{.bad}",
-        "[半高方向键]{.attention}"
-      ],
-      "display": {
-        "resolution": "2560x1600",
-        "refreshRate": 120,
-        "coverage": "100% sRGB",
-        "brightness": "400nits"
-      },
-      "cpu": "锐龙 R7 7840H/8845HS",
-      "gpu": "Radeon 780M",
-      "memory": "DDR5 5600 16G :vary-chip{to=\"32G\" cost=500}",
-      "storage": {
-        "type": "NVMe",
-        "capacity": "1TB",
-        "interface": "双 2280"
-      },
-      "price": 3999,
-      "url": "https://detail.tmall.com/item.htm?id=719280166449&skuId=5454104324398",
-      "image": "/images/recommendation/laptop/igpu/火影-众颜 U6 锐龙版.png"
-    },
-    {
       "brand": "机械革命",
-      "model": "无界14 Pro 2024 锐龙版",
+      "model": "无界14X",
       "screenSize": 14,
       "thickness": 17.3,
       "weight": 1.47,
@@ -83,30 +14,25 @@
         "性能释放优秀"
       ],
       "disadvantages": [
-        "[垃圾QLC固态]{.very-bad}",
-        "[阉割RJ45接口]{.very-bad}",
-        "[核心温度高]{.bad}",
-        "[键盘面温度高]{.bad}",
-        "[充电速度慢]{.bad}",
-        "[半高方向键]{.attention}"
+        "[垃圾QLC固态]{.very-bad}"
       ],
       "display": {
         "resolution": "2880x1800",
         "refreshRate": 120,
         "coverage": "100% sRGB",
-        "brightness": "400nits"
+        "brightness": "465nits"
       },
-      "cpu": "R7 8845H",
+      "cpu": "R7 8845HS",
       "gpu": "Radeon 780M",
-      "memory": "DDR5 5600 [32G]{.very-good}",
+      "memory": "DDR5 5600 [24G]{.very-good}",
       "storage": {
         "type": "NVMe",
         "capacity": "1TB",
         "interface": "双 2280"
       },
-      "price": 4399,
-      "url": "https://item.jd.com/10103003372051.html",
-      "image": "/images/recommendation/laptop/igpu/机械革命-无界14 Pro 2024 锐龙版.png"
+      "price": 4199,
+      "url": "https://item.jd.com/100102892918.html",
+      "image": "/images/recommendation/laptop/igpu/机械革命—无界14X.png"
     },
     {
       "brand": "小米",
@@ -139,7 +65,7 @@
         "capacity": "512GB",
         "interface": "2242+2280"
       },
-      "price": 4280,
+      "price": 4399,
       "url": "https://www.mi.com/redmi-books/14-2024/specs",
       "image": "/images/recommendation/laptop/igpu/小米-Redmi Book 14 2024.png"
     },
@@ -179,38 +105,6 @@
       "image": "/images/recommendation/laptop/igpu/小米-Redmi Book 16 2024.png"
     },
     {
-      "brand": "机械革命",
-      "model": "无界 15X 锐龙版",
-      "screenSize": 15,
-      "thickness": 19.6,
-      "weight": 1.68,
-      "advantages": [
-        "[双2280硬盘位]{.very-good}",
-        "性能释放优秀"
-      ],
-      "disadvantages": [
-        "[垃圾QLC固态]{.very-bad}",
-        "键盘打字手感差"
-      ],
-      "display": {
-        "resolution": "2560x1600",
-        "refreshRate": 120,
-        "coverage": "100% sRGB",
-        "brightness": "450nits"
-      },
-      "cpu": "锐龙 R7 8845HS",
-      "gpu": "Radeon 780M",
-      "memory": "DDR5 5600 24G",
-      "storage": {
-        "type": "NVMe",
-        "capacity": "1TB",
-        "interface": "双 2280"
-      },
-      "price": 4199,
-      "url": "https://detail.tmall.com/item.htm?id=814146049588",
-      "image": "/images/recommendation/laptop/igpu/机械革命-无界 15X 锐龙版.png"
-    },
-    {
       "brand": "惠普",
       "model": "星Book Pro 13 2024",
       "screenSize": 13,
@@ -240,6 +134,38 @@
       "price": 4499,
       "url": "https://detail.tmall.com/item.htm?id=733499627107",
       "image": "/images/recommendation/laptop/igpu/惠普-星Book Pro 13 2024.png"
+    },
+    {
+      "brand": "华硕",
+      "model": "无畏 Pro 15",
+      "screenSize": 15.6,
+      "thickness": 19.6,
+      "weight": 1.54,
+      "advantages": [
+        "[性价比不错]{.very-good}"
+      ],
+      "disadvantages": [
+        "[单2280硬盘位]{.very-bad}",
+        "屏幕下巴偏大",
+        "键盘非标准配列"
+      ],
+      "display": {
+        "resolution": "2880x1620",
+        "refreshRate": 120,
+        "coverage": "100% sRGB",
+        "brightness": "600nits"
+      },
+      "cpu": "[酷睿 Ultra 7 155H]",
+      "gpu": "Arc Graphics 核显",
+      "memory": "LPDDR5x-7467 32G [板载]{.very-bad}",
+      "storage": {
+        "type": "NVMe",
+        "capacity": "1TB",
+        "interface": "[单 2280]{.bad}"
+      },
+      "price": 5199,
+      "url": "https://item.jd.com/100087464203.html",
+      "image": "/images/recommendation/laptop/igpu/华硕无畏 15 Pro.png"
     },
     {
       "brand": "联想",
