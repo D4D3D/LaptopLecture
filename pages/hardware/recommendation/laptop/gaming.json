@@ -73,35 +73,37 @@
       "image": "/images/recommendation/laptop/gaming/宏碁-掠夺者·擎Neo 2023.png"
     },
     {
-      "brand": "宏碁",
-      "model": "暗影骑士·龙 16 2024",
-      "screenSize": 16,
-      "thickness": 30,
-      "weight": 2.6,
+      "brand": "惠普",
+      "model": "暗影精灵 乐享版",
+      "screenSize": 16.1,
+      "thickness": 20,
+      "weight": 2.29,
       "advantages": [
-        "[键盘面温度低]{.good}",
-        "[液金双刃剑]{.attention}"
+        "[一线品牌]{.good}"
+        
       ],
       "disadvantages": [
-        "[电源键位置不合理]{.bad}"
+        "[全塑料机身]{.bad}",
+        "[屏幕下巴偏大]{.bad}"
+
       ],
       "display": {
-        "resolution": "2560x1600 :vary-chip{to=\"1920x1200\" cost=-200}",
-        "refreshRate": 165,
+        "resolution": "2560x1440",
+        "refreshRate": 240,
         "coverage": "100% sRGB",
-        "brightness": "[500nits]{.good}"
+        "brightness": "[322nits]{.bad}"
       },
-      "cpu": "锐龙 R7 7840H",
+      "cpu": "[酷睿 i7 14650HX]{.bad}",
       "gpu": "RTX 4060 8G",
       "memory": "DDR5 5600 16G",
       "storage": {
         "type": "NVMe",
-        "capacity": "[512GB]{.bad} :vary-chip{to=\"1TB\" cost=200}",
+        "capacity": "[512GB]{.bad} :vary-chip{to=\"1TB\" cost=300}",
         "interface": "双 2280"
       },
-      "price": 5799,
-      "url": "https://item.jd.com/100100242007.html",
-      "image": "/images/recommendation/laptop/gaming/宏碁-暗影骑士·龙 16 2024.png"
+      "price": 5999,
+      "url": "https://item.jd.com/10108958329393.html#crumb-wrap",
+      "image": "/images/recommendation/laptop/gaming/暗影精灵 乐享版.png"
     },
     {
       "brand": "联想",
@@ -130,7 +132,7 @@
         "interface": "双 2280"
       },
       "price": 7839,
-      "url": "https://item.lenovo.com.cn/product/1036522.html",
+      "url": "https://item.lenovo.com.cn/product/1036321.html",
       "image": "/images/recommendation/laptop/gaming/联想-拯救者 R9000p 2023.png"
     },
     {
