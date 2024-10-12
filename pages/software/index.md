@@ -215,7 +215,7 @@ hideLogo: true
 1. 插上电源和网线(网线接路由器的那一端一定要接WAN口，如图所示)
 <ImageWithHint src="../../images/WAN.png" alt="路由器WAN口" imgClass="h-60" class="w-fit m-auto" />
 
-2. 连接未被初始化的WIFI，然后会自动跳转成初始化的网页，进行初始化即可。日常使用5Ghz，或打开双频合一。
+2. 连接未被初始化的Wi-Fi，然后会自动跳转成初始化的网页，进行初始化即可。日常使用5Ghz，或打开双频合一。
 
 ---
 

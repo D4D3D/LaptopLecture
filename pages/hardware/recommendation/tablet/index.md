@@ -40,7 +40,7 @@ background: images/recommendation/tablet/iPadOS.jpg
 
 ## iPad OS相对于安卓平台的优势
 
-新版的iPad的m系芯片有强大的性能，
+新版的iPad的M系芯片有强大的性能，
 
 各类专业软件配套
 
