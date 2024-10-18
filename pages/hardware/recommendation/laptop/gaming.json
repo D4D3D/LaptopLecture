@@ -102,8 +102,8 @@
         "interface": "双 2280"
       },
       "price": 5999,
-      "url": "https://item.jd.com/10108958329393.html#crumb-wrap",
-      "image": "/images/recommendation/laptop/gaming/暗影精灵 乐享版.png"
+      "url": "https://item.jd.com/10108958329393.html",
+      "image": "/images/recommendation/laptop/gaming/惠普-暗影精灵 乐享版.png"
     },
     {
       "brand": "联想",
@@ -183,8 +183,7 @@
       "disadvantages": [
         "[缺角屏]{.very-bad}适配差，BUG多",
         "[色彩管理BUG多]{.bad}",
-        "键盘打字手感差",
-        "Magic Bay 没啥用，不要买"
+        "键盘打字手感差"
       ],
       "display": {
         "resolution": "3200x2000",
